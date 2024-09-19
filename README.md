@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerrxt07" alt="gerrxt07" /></a> </p>
 
-- 🔭 I’m currently working on [Mystrix Suite](https://github.com/Gerrxt07/Mystrix)
+- 🔭 I’m currently working on [Falcon Remote](https://github.com/Gerrxt07/FalconRemoteManager)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gerrxt07/](https://github.com/Gerrxt07/)
 
