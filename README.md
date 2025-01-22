@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerrxt07" alt="gerrxt07" /></a> </p>
 
-- 🔭 I’m currently working on [Falcon Remote](https://github.com/Gerrxt07/FalconRemoteManager)
+- 🔭 I’m currently working on [Remote Manager](https://github.com/Gerrxt07/RemoteManager)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gerrxt07/](https://github.com/Gerrxt07/)
 
 - 📫 How to reach me **gerrxt07@proton.me**
 
-- ⚡ Fun fact **learned first programming language at 13**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/thegerrxt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thegerrxt" height="30" width="40" /></a>
-<a href="https://instagram.com/gerrit.sch.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gerrit.sch.07" height="30" width="40" /></a>
-<a href="https://discord.gg/h3dpvbrctw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="h3dpvbrctw" height="30" width="40" /></a>
+<a href="https://discord.gg/T4p98xbHVz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="h3dpvbrctw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
