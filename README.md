@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerrxt07" alt="gerrxt07" /></a> </p>
 
-- 🔭 I’m currently working on [Remote Manager](https://github.com/Gerrxt07/RemoteManager)
+- 🔭 I’m currently working on [Niva Console](https://github.com/Gerrxt07/Niva-Console)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gerrxt07/](https://github.com/Gerrxt07/)
 
-- 📫 How to reach me **gerrxt07@proton.me**
+- 📫 How to reach me **gerrxt07@proton.me** or **niva@phantomcommunity.de**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
