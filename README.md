@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerrxt07&label=Profile%20views&color=0e75b6&style=flat" alt="gerrxt07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gerrxt07" alt="gerrxt07" /></a> </p>
-
 - 🔭 I’m currently working on [Niva Console](https://github.com/Gerrxt07/Niva-Console)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gerrxt07/](https://github.com/Gerrxt07/)
