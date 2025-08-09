@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gerrxt07/](https://github.com/Gerrxt07/)
 
-- 📫 You reach me via **gerrxt07@proton.me** or contact us at **support@phantomcommunity.de**
+- 📫 You reach me via **gerrxt07@proton.me** or contact us at **admin@becloudly.eu**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerrxt07&show_icons=true&locale=en&layout=compact&theme=transparent" alt="gerrxt07" /></p>
 
