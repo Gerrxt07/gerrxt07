@@ -49,7 +49,12 @@ My GitHub Stats
 
 ---
 
+
+
+<p align="center">
 About Me
+</p>
+
 🎓 I'm currently in my second of three years of the ITA (Information Technology Assistant) program at the RBBK Dortmund in Germany.
 
 🌱 My goal is to create innovative projects for myself and others, continuously learn new programming languages, and deepen my existing knowledge.
