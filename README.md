@@ -25,7 +25,7 @@
 🚀 A Current Project
 </p>
 
-I'm currently working on Zer0, a high-performance API built with Python. It leverages technologies like FastAPI, Granian, Rloop, Renoir, and Orjson to achieve incredible speed and efficiency.
+I'm currently working on Cloudly, a high-performance Minecraft server plugin for paper-based servers built with Kotlin to manage your server with various integrations, highly configurable and multi-language support.
 
 👨‍💻 All of my projects are available at https://github.com/Gerrxt07/
 
