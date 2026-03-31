@@ -1,76 +1,50 @@
+<div align="center">
+  <h1>Hi 👋, I'm Gerrxt</h1>
+  <p><em>A student from Germany with a passion for web development, software architecture, and hardware.</em></p>
+  <p>🎓 Currently studying to become an ITA at RBBK Dortmund.</p>
+</div>
 
-<p align="center">
-<a href="https://github.com/Gerrxt07">
-    Hi 👋, I'm Gerrxt
-</a>
-</p>
+<br />
 
-<p align="center">
-<em>A student from Germany with a passion for web development, Minecraft, and hardware. Currently studying to become an ITA at RBBK Dortmund.</em>
-</p>
+<div align="center">
+  <a href="mailto:gerrxt07@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/gerrit.sch.07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://github.com/Gerrxt07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
-<p align="center">
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.lua.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
-</p>
+<br />
 
----
+### 🚀 What I'm currently working on
 
-<p align="center">
-🚀 A Current Project
-</p>
+> ### [Haven](https://github.com/Gerrxt07/Haven)
+> *A modern, high-performance Voice, Video, and Chat application.*
 
-I'm currently working on Cloudly, a high-performance Minecraft server plugin for paper-based servers built with Kotlin to manage your server with various integrations, highly configurable and multi-language support.
+I'm currently building **Haven** to help you seamlessly connect with your friends. Engineered from the ground up to be incredibly fast, secure, and entirely open-source.
 
-👨‍💻 All of my projects are available at https://github.com/Gerrxt07/
+
+**Built with:** `Electron` • `SolidJS` • `Vite` • `Bun` • `TailwindCSS`
 
 ---
+### 🛠️ My Tech Stack
 
-<p align="center">
-My GitHub Stats
-</p>
+<br />
 
-<p align="center">
-<a href="https://github.com/Gerrxt07">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gerrxt07&show_icons=true&locale=en&theme=transparent" alt="gerrxt07" />
-</a>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Lua-2D0067?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+</div>
 
-<p align="center">
-<a href="https://github.com/Gerrxt07">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gerrxt07&show_icons=true&locale=en&layout=compact&theme=transparent" alt="gerrxt07" />
-</a>
-</p>
+<br />
 
----
+### 💡 About Me
 
-
-
-<p align="center">
-About Me
-</p>
-
-🎓 I'm currently in my second of three years of the ITA (Information Technology Assistant) program at the RBBK Dortmund in Germany.
-
-🌱 My goal is to create innovative projects for myself and others, continuously learn new programming languages, and deepen my existing knowledge.
-
-👯 I’m open to collaborating on interesting projects and contributing to the open-source community.
-
-💼 I'm also available for freelance work. Feel free to reach out with your project ideas.
-
-🤔 My interests include coding, hardware, and everything in between.
-
----
-<p align="center">
-📫 How to reach me:
-</p>
-
-<p align="center">
-<a href = "mailto:gerrxt07@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" /></a>
-<a href = "https://www.instagram.com/gerrit.sch.07"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</p>
+- 🌱 My goal is to create innovative projects, continuously learn new programming languages, and deepen my existing knowledge.
+- 👯 I’m open to collaborating on interesting projects and contributing to the open-source community.
+- 💼 I'm available for freelance work. Feel free to reach out with your project ideas!
+- 🤔 My interests include coding, hardware, and everything in between.
