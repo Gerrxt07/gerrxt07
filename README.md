@@ -1,10 +1,9 @@
 <div align="center">
   <h1>Hi 👋, I'm Gerrxt</h1>
-  <p><em>A student from Germany with a passion for web development, software architecture, and hardware.</em></p>
-  <p>🎓 Currently studying to become an ITA at RBBK Dortmund.</p>
+  <p><em>ITA student from Dortmund, Germany, interested in software development, IT infrastructure, networks, and hardware.</em></p>
+  <p>🎓 Studying to become an <strong>Informationstechnischer Assistent (ITA)</strong> at Robert-Bosch-Berufskolleg.<br />Expected graduation: <strong>July 2028</strong> (including Fachhochschulreife).</p>
+  <p>🔎 Interested in <strong>IT internship opportunities</strong> where I can learn, contribute, and gain practical experience.</p>
 </div>
-
-<br />
 
 <div align="center">
   <a href="mailto:gerrxt07@proton.me"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" /></a>
@@ -12,39 +11,43 @@
   <a href="https://github.com/Gerrxt07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
-<br />
-
-### 🚀 What I'm currently working on
-
-> ### [Haven](https://github.com/Gerrxt07/Haven)
-> *A modern, high-performance Voice, Video, and Chat application.*
-
-I'm currently building **Haven** to help you seamlessly connect with your friends. Engineered from the ground up to be incredibly fast, secure, and entirely open-source.
-
-
-**Built with:** `Electron` • `SolidJS` • `Vite` • `Bun` • `TailwindCSS`
-
 ---
-### 🛠️ My Tech Stack
 
-<br />
+### 🚀 Current focus: Strukt / LumenDNS
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Lua-2D0067?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</div>
+I'm working on **LumenDNS**, a new DNS client written in **Rust**, under the project umbrella **Strukt**. It's an ongoing, independent project—not a registered company. The code and detailed documentation are **not public yet**; a website and documentation are in progress.
 
-<br />
+I'm particularly interested in how software, networking, DNS, and reliable infrastructure fit together.
 
-### 💡 About Me
+### 📌 Selected projects
 
-- 🌱 My goal is to create innovative projects, continuously learn new programming languages, and deepen my existing knowledge.
-- 👯 I’m open to collaborating on interesting projects and contributing to the open-source community.
-- 💼 I'm available for freelance work. Feel free to reach out with your project ideas!
-- 🤔 My interests include coding, hardware, and everything in between.
+| Project | What it's about | Status |
+| --- | --- | --- |
+| **[LinkProxy](https://github.com/Gerrxt07/LinkProxy)** | A significantly modified fork of the **Velocity** Minecraft proxy, with a focus on connection diagnostics, proxy protocol handling, and operational reliability. | Public |
+| **[moviepark-app](https://github.com/Gerrxt07/moviepark-app)** | A web app built for a Movie Park visit: collects and combines wait times, weather, and other data to support data-driven planning of visits and time slots. | Public |
+| **[Haven](https://github.com/Gerrxt07/Haven)** · [Backend](https://github.com/Gerrxt07/Haven_Backend) | An experimental Discord-style communication platform, with an Electron/TypeScript client and Rust backend. A valuable learning project, but not completed due to technical challenges. | Unfinished prototype |
+| **[CloudlyMC](https://github.com/Gerrxt07/cloudly-archive)** | A configurable Minecraft server plugin with multiple functions and integrations. | Archived |
+
+### 🛠️ Technologies I've worked with
+
+My experience varies across these technologies—from using and adapting code to understanding existing implementations. **This is not a claim of equal proficiency or independent coding ability in every language.**
+
+**Languages and web technologies:** Python, Java, Lua, HTML, CSS, JavaScript, TypeScript, Go, Rust, and some Kotlin.
+
+**Frameworks and tools:** FastAPI and other Python web frameworks, Git/GitHub; project exposure to Electron, SolidJS, and associated web tooling.
+
+**Systems and infrastructure:** Windows, Linux, macOS, Cloudflare, domain and DNS management, computer networks, and PC hardware/software.
+
+### 🤖 How I build software
+
+I use **AI-assisted development extensively**, including for substantial parts of the code in my projects. My contribution is in shaping the idea and requirements, giving precise technical direction, understanding and reviewing generated code, testing behavior, finding problems, and iterating toward a working solution.
+
+I'm continuously improving my own programming skills and want to be transparent about the difference between **understanding, adapting, and independently writing code**.
+
+### 💡 A bit about me
+
+- I enjoy experimenting with software architecture, web applications, backend services, networking, and hardware.
+- I like taking ideas beyond small examples and learning from ambitious projects—even the ones that don't reach release.
+- I'm open to interesting open-source collaborations and opportunities to learn in a professional IT environment.
+
+**Contact:** [gerrxt07@proton.me](mailto:gerrxt07@proton.me)
