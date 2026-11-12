@@ -32,7 +32,7 @@ I'm particularly interested in how software, networking, DNS, and reliable infra
 
 My experience varies across these technologies—from using and adapting code to understanding existing implementations. **This is not a claim of equal proficiency or independent coding ability in every language.**
 
-**Languages and web technologies:** Python, Java, Lua, HTML, CSS, JavaScript, TypeScript, Go, Rust, and some Kotlin.
+**Languages and web technologies:** Python, Java, Lua, HTML, CSS, JavaScript, TypeScript, SQL, Go, Rust, and some Kotlin.
 
 **Frameworks and tools:** FastAPI and other Python web frameworks, Git/GitHub; project exposure to Electron, SolidJS, and associated web tooling.
 
